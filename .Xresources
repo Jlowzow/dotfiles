@@ -1,0 +1,79 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #53506b, #53506b, #53506b
+rofi.color-normal: #53506b, #ffffff, #53506b, #53506b, #a883d2
+rofi.color-active: #53506b, argb:ce268bd2, #53506b, #53506b, #fdf6e3
+rofi.color-urgent: #53506b, #dc322f, #53506b, #dc322f, #53506b
+
+! --- ~/.Xresources ------------------------------------------------------------
+! ! ------------------------------------------------------------------------------
+! ! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ! ------------------------------------------------------------------------------
+! ! --- http://ciembor.github.com/4bit -------------------------------------------
+! ! ------------------------------------------------------------------------------
+!
+! ! --- special colors ---
+!
+URxvt*scrollBar: false
+URxvt*skipScroll: true
+URxvt*fading: 30
+
+URxvt*font: xft:Monaco
+
+
+*background: #0b0e28
+*foreground: #daf1e6
+!
+! ! --- standard colors ---
+!
+! ! black
+*color0: #343434
+!
+! ! bright_black
+*color8: #646464
+!
+! ! red
+*color1: #91264a
+!
+! ! bright_red
+*color9: #e9adc1
+!
+! ! green
+*color2: #4a9126
+!
+! ! bright_green
+*color10: #c1e9ad
+!
+! ! yellow
+*color3: #916d26
+!
+! ! bright_yellow
+*color11: #e9d5ad
+!
+! ! blue
+*color4: #264a91
+!
+! ! bright_blue
+*color12: #adc1e9
+!
+! ! magenta
+*color5: #6d2691
+!
+! ! bright_magenta
+*color13: #d5ade9
+!
+! ! cyan
+*color6: #26916d
+!
+! bright_cyan
+*color14: #ade9d5
+! white
+*color7: #c5c5c5
+bright_white
+*color15: #ededed
+! ------------------------------------------------------------------------------
+! --- end of terminal colors section -------------------------------------------
+! ------------------------------------------------------------------------------
+
