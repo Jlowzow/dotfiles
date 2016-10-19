@@ -22,57 +22,43 @@ URxvt*fading: 30
 
 URxvt*font: xft:Monaco
 
-
-*background: #0b0e28
-*foreground: #daf1e6
-!
 ! ! --- standard colors ---
-!
-! ! black
-*color0: #343434
-!
-! ! bright_black
-*color8: #646464
-!
-! ! red
-*color1: #91264a
-!
-! ! bright_red
-*color9: #e9adc1
-!
-! ! green
-*color2: #4a9126
-!
-! ! bright_green
-*color10: #c1e9ad
-!
-! ! yellow
-*color3: #916d26
-!
-! ! bright_yellow
-*color11: #e9d5ad
-!
-! ! blue
-*color4: #264a91
-!
-! ! bright_blue
-*color12: #adc1e9
-!
-! ! magenta
-*color5: #6d2691
-!
-! ! bright_magenta
-*color13: #d5ade9
-!
-! ! cyan
-*color6: #26916d
-!
-! bright_cyan
-*color14: #ade9d5
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #a54242
+*.color9:       #cc6666
+
+! green
+*.color2:       #8c9440
+*.color10:      #b5bd68
+
+! yellow
+*.color3:       #de935f
+*.color11:      #f0c674
+
+! blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+
 ! white
-*color7: #c5c5c5
-bright_white
-*color15: #ededed
+*.color7:       #707880
+*.color15:      #c5c8c6
 ! ------------------------------------------------------------------------------
 ! --- end of terminal colors section -------------------------------------------
 ! ------------------------------------------------------------------------------
