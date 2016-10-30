@@ -9,6 +9,7 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'octol/vim-cpp-enhanced-highlight'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -16,3 +17,8 @@ filetype plugin indent on    " required
 set nu
 set rnu
 syntax on
+set tabstop=4
+set shiftwidth=4
+filetype on
+set autoindent
+set noexpandtab
