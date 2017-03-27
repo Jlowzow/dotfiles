@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -23,14 +23,3 @@ set shiftwidth=4
 filetype on
 set autoindent
 set noexpandtab
-=======
-set rnu
-set nu
-set tabstop=4
-set shiftwidth=4
-syntax on
-filetype on
-set autoindent
-set noexpandtab
-
->>>>>>> 5c121e82ffeef300ac6da0c54caadf9a4183b10c
